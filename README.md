@@ -1,4 +1,4 @@
-# file-viewer-and-compressor
+# File Viewer and Compressor
 A file viewer that can be used to compress and decompress certain files
 
 Overview
