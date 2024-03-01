@@ -6,7 +6,7 @@ Overview
 
 This application is a file viewer, such as the file explorer in Windows, with some added features. The user is able to see the content of files that they select, and they are able to compress and decompress them using Lempel-Ziv-Welch (lzw) compression.
 
-<img src="./images/file_exploration_and_viewing.jpg" alt="Image of a file explorer" width="900">
+<img src="./images/file_exploration_and_viewing.JPG" alt="Image of a file explorer" width="900">
 
 How to Install
 ------------
@@ -30,9 +30,9 @@ How to use
 
  - Compress and decompress files by right clicking on a file and pressing the respective buttons
 
-<img src="./images/file_compression_popup.jpg" alt="Image of a compression option on a file" width="900">
+<img src="./images/file_compression_popup.JPG" alt="Image of a compression option on a file" width="900">
 
-<img src="./images/file_decompression_popup.jpg" alt="Image of a decompression option on a file" width="900">
+<img src="./images/file_decompression_popup.JPG" alt="Image of a decompression option on a file" width="900">
 
 Creators
 -----
